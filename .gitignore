@@ -1,0 +1,13 @@
+# CIFAR-10 Dataset and pycache
+__pycache__/
+*.pyc
+cifar-10-batches-py/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
